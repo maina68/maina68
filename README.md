@@ -9,7 +9,9 @@ I am a passionate tech enthusiast looking to improve my software development ski
 *   🌍  I'm based in Nakuru
 *   ✉️  You can contact me at [mwangisgeorge@gmail.com](mailto:mwangisgeorge@gmail.com)
 *   🧠  I'm learning Web development
-*   🤝  I'm open to collaborating on interesting web-based projects### Skills 
+*   🤝  I'm open to collaborating on interesting web-based projects
+
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -28,6 +30,7 @@ I am a passionate tech enthusiast looking to improve my software development ski
    ### Socials
 
 <p align="left"> <a href="https://discord.com/users/mwas#5318" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/maina68" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/george-maina-586b1b235/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gichdraymond" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
