@@ -1,15 +1,15 @@
 Hi 👋 My name is Maina68
 ========================
 
-Front-end Developer
+Software Engineer
 -------------------
 
 I am a passionate tech enthusiast looking to improve my software development skills so as to effectively solve problems.
 
 *   🌍  I'm based in Nakuru
 *   ✉️  You can contact me at [mwangisgeorge@gmail.com](mailto:mwangisgeorge@gmail.com)
-*   🧠  I'm learning Web development
-*   🤝  I'm open to collaborating on interesting web-based projects
+*   🧠  I'm learning Machine Learning and Data Science
+*   🤝  I'm open to collaborating on interesting AI and ML projects
 
 ### Skills 
 <p align="left">
